@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="animated" height="120" width="120" />
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-1000x1000.jpg" alt="animated" height="120" width="120" />
 </p>
 
 <p align="center">
-### Hi there 👋
+Hi there 👋
 </p>
 
 <!--
