@@ -2,7 +2,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="animated" height="120" width="120" />
 </p>
 
+<p align="center">
 ### Hi there 👋
+</p>
 
 <!--
 **gbilgeturk/gbilgeturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
