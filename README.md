@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-1000x1000.jpg" alt="animated" />
+Hi there <img src="https://developer.android.com/static/guide/practices/ui_guidelines/images/NB_Icon_Mask_Shapes_Ext_02.gif" alt="animated" />
 </p>
 
-<p align="center">
-Hi there 👋
-</p>
 
-<!--
-**gbilgeturk/gbilgeturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Jetpack Compose
 - 💬 Ask me about Android, Kotlin, Jetpack Compose
 - ⚡ Fun fact: HODOR
--->
 
 ## My Github Stats:
 ![Gokturk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbilgeturk&show_icons=true&theme=tokyonight)
