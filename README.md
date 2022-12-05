@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-1000x1000.jpg" alt="animated" height="120" width="120" />
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-1000x1000.jpg" alt="animated" height="1200" width="2880" />
 </p>
 
 <p align="center">
