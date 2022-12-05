@@ -1,5 +1,5 @@
 <p align="center">
-Hi there <img src="https://developer.android.com/static/guide/practices/ui_guidelines/images/NB_Icon_Mask_Shapes_Ext_02.gif" alt="animated" width="64" height="64" />
+Hi there 👻
 </p>
 
 
